@@ -1,0 +1,11 @@
+{
+    "name": "JuJuCrypt",
+    "url": "https://github.com/jujulian1987/JuJuCrypt",
+    "license": "BSD",
+    "tags": [ "crypt", "sha256", "hash" ],
+    "description": "Currently JuJuCrypt supports generation of SHA 256 hashes from strings for Haxe 3. But support for other hashing methods is planned.",
+    "version": "1.0.0",
+    "releasenote": "Initial version.",
+    "contributors": [ "jujulian1987" ],
+    "dependencies": {}
+}
