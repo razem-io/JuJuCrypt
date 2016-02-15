@@ -1,3 +1,10 @@
+USE THIS INSTEAD
+================
+
+It is now included in http://api.haxe.org/haxe/crypto/Sha256.html
+
+You do not need to use this repository anymore. 
+
 JuJuCrypt
 =========
 
